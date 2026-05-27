@@ -1,0 +1,4756 @@
+{
+    "獨玩劇情折扣黨": [
+        {
+            "antecedents": [
+                "Stardew Valley（星露谷物語）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 10.1429
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 7.8889
+        },
+        {
+            "antecedents": [
+                "Tomb Raider Trilogy（古墓奇兵三部曲）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 6.7619
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Civilization VI（文明帝國 6）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 6.7619
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0563,
+            "confidence": 0.5714,
+            "lift": 6.7619
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "House Flipper（房屋裝修模擬）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 5.9167
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "PUBG: Battlegrounds（絕地求生）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 5.9167
+        },
+        {
+            "antecedents": [
+                "Dark Souls Series（黑暗靈魂系列）"
+            ],
+            "consequents": "Sekiro: Shadows Die Twice（隻狼）",
+            "support": 0.0563,
+            "confidence": 0.5,
+            "lift": 5.9167
+        },
+        {
+            "antecedents": [
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 5.9167
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "NBA 2K 系列（籃球）",
+            "support": 0.0563,
+            "confidence": 0.5714,
+            "lift": 5.7959
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "NBA 2K 系列（籃球）",
+            "support": 0.0563,
+            "confidence": 0.5714,
+            "lift": 5.7959
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0563,
+            "confidence": 0.4444,
+            "lift": 5.2593
+        },
+        {
+            "antecedents": [
+                "Tomb Raider Trilogy（古墓奇兵三部曲）"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 5.2593
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 5.2593
+        },
+        {
+            "antecedents": [
+                "House Flipper（房屋裝修模擬）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 5.1636
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）"
+            ],
+            "consequents": "Assassin's Creed Odyssey / Valhalla（刺客教條系列）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 5.1636
+        },
+        {
+            "antecedents": [
+                "House Flipper（房屋裝修模擬）",
+                "Minecraft"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 5.1636
+        },
+        {
+            "antecedents": [
+                "Assassin's Creed Odyssey / Valhalla（刺客教條系列）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0563,
+            "confidence": 0.3636,
+            "lift": 5.1636
+        },
+        {
+            "antecedents": [
+                "Terraria（泰拉瑞亞）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Civilization VI（文明帝國 6）",
+            "support": 0.0563,
+            "confidence": 0.5,
+            "lift": 5.0714
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Stardew Valley（星露谷物語）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 4.7333
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "PUBG: Battlegrounds（絕地求生）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 4.7333
+        },
+        {
+            "antecedents": [
+                "Cities: Skylines（都市：天際線）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "PUBG: Battlegrounds（絕地求生）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 4.7333
+        },
+        {
+            "antecedents": [
+                "Civilization VI（文明帝國 6）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "PUBG: Battlegrounds（絕地求生）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 4.7333
+        },
+        {
+            "antecedents": [
+                "Red Dead Redemption 2（碧血狂殺 2）"
+            ],
+            "consequents": "Fallout 4（異塵餘生 4）",
+            "support": 0.0563,
+            "confidence": 0.3333,
+            "lift": 4.7333
+        },
+        {
+            "antecedents": [
+                "Fallout 4（異塵餘生 4）"
+            ],
+            "consequents": "Red Dead Redemption 2（碧血狂殺 2）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 4.7333
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Stardew Valley（星露谷物語）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 4.7333
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Battlefield 1 / Battlefield V（戰地風雲 1 / 5）",
+            "support": 0.0563,
+            "confidence": 0.4444,
+            "lift": 4.5079
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "House Flipper（房屋裝修模擬）",
+            "support": 0.0563,
+            "confidence": 0.5,
+            "lift": 4.4375
+        },
+        {
+            "antecedents": [
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "PUBG: Battlegrounds（絕地求生）",
+            "support": 0.0704,
+            "confidence": 0.7143,
+            "lift": 4.2262
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）"
+            ],
+            "consequents": "PUBG: Battlegrounds（絕地求生）",
+            "support": 0.0704,
+            "confidence": 0.7143,
+            "lift": 4.2262
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "PUBG: Battlegrounds（絕地求生）",
+            "support": 0.0704,
+            "confidence": 0.7143,
+            "lift": 4.2262
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）"
+            ],
+            "consequents": "Civilization VI（文明帝國 6）",
+            "support": 0.0704,
+            "confidence": 0.4167,
+            "lift": 4.2262
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）"
+            ],
+            "consequents": "NBA 2K 系列（籃球）",
+            "support": 0.0704,
+            "confidence": 0.4167,
+            "lift": 4.2262
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "NBA 2K 系列（籃球）",
+            "support": 0.0563,
+            "confidence": 0.4,
+            "lift": 4.0571
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Counter-Strike 2（絕對武力 CS2）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 4.0571
+        },
+        {
+            "antecedents": [
+                "Age of Empires （世紀帝國 ）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Battlefield 1 / Battlefield V（戰地風雲 1 / 5）",
+            "support": 0.0563,
+            "confidence": 0.4,
+            "lift": 4.0571
+        },
+        {
+            "antecedents": [
+                "House Flipper（房屋裝修模擬）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0704,
+            "confidence": 0.625,
+            "lift": 4.0341
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "House Flipper（房屋裝修模擬）",
+            "support": 0.0704,
+            "confidence": 0.4545,
+            "lift": 4.0341
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "PUBG: Battlegrounds（絕地求生）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）"
+            ],
+            "consequents": "Outlast（絕命精神病院）",
+            "support": 0.0563,
+            "confidence": 0.4444,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "Total War: Three Kingdoms（全軍破敵：三國）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0563,
+            "confidence": 0.5,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Cyberpunk 2077（電馭叛客 2077）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "PUBG: Battlegrounds（絕地求生）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0704,
+            "confidence": 1.0,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "Terraria（泰拉瑞亞）",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Age of Empires （世紀帝國 ）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "Resident Evil（惡靈古堡 ）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "Battlefield 1 / Battlefield V（戰地風雲 1 / 5）",
+                "Age of Empires （世紀帝國 ）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0563,
+            "confidence": 1.0,
+            "lift": 3.9444
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.7867
+        },
+        {
+            "antecedents": [
+                "Hollow Knight（空洞騎士）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.7867
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Monster Hunter（魔物獵人）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.7867
+        },
+        {
+            "antecedents": [
+                "Hollow Knight（空洞騎士）",
+                "Monster Hunter（魔物獵人）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.7867
+        },
+        {
+            "antecedents": [
+                "Civilization VI（文明帝國 6）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.7867
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0563,
+            "confidence": 0.5714,
+            "lift": 3.6883
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Counter-Strike 2（絕對武力 CS2）",
+            "support": 0.0704,
+            "confidence": 0.7143,
+            "lift": 3.6224
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Among Us（我們之中）",
+            "support": 0.0563,
+            "confidence": 0.4444,
+            "lift": 3.5062
+        },
+        {
+            "antecedents": [
+                "Among Us（我們之中）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0563,
+            "confidence": 0.4444,
+            "lift": 3.5062
+        },
+        {
+            "antecedents": [
+                "Hollow Knight（空洞騎士）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0704,
+            "confidence": 0.3846,
+            "lift": 3.4135
+        },
+        {
+            "antecedents": [
+                "Dark Souls Series（黑暗靈魂系列）"
+            ],
+            "consequents": "Hollow Knight（空洞騎士）",
+            "support": 0.0704,
+            "confidence": 0.625,
+            "lift": 3.4135
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）"
+            ],
+            "consequents": "Stardew Valley（星露谷物語）",
+            "support": 0.0704,
+            "confidence": 0.7143,
+            "lift": 3.381
+        },
+        {
+            "antecedents": [
+                "Overcooked! 2（煮過頭 2）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 3.381
+        },
+        {
+            "antecedents": [
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Elden Ring（艾爾登法環）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 3.381
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Counter-Strike 2（絕對武力 CS2）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 3.381
+        },
+        {
+            "antecedents": [
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0704,
+            "confidence": 0.3333,
+            "lift": 3.381
+        },
+        {
+            "antecedents": [
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Elden Ring（艾爾登法環）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 3.381
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Counter-Strike 2（絕對武力 CS2）",
+            "support": 0.0845,
+            "confidence": 0.6667,
+            "lift": 3.381
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.3412
+        },
+        {
+            "antecedents": [
+                "Red Dead Redemption 2（碧血狂殺 2）",
+                "Minecraft"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0563,
+            "confidence": 0.5,
+            "lift": 3.2273
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Resident Evil（惡靈古堡 ）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0563,
+            "confidence": 0.5,
+            "lift": 3.2273
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "Minecraft"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0563,
+            "confidence": 0.5,
+            "lift": 3.2273
+        },
+        {
+            "antecedents": [
+                "Hollow Knight（空洞騎士）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Monster Hunter（魔物獵人）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 3.1556
+        },
+        {
+            "antecedents": [
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Monster Hunter（魔物獵人）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 3.1556
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0563,
+            "confidence": 0.6667,
+            "lift": 3.1556
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.1556
+        },
+        {
+            "antecedents": [
+                "Cities: Skylines（都市：天際線）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Age of Empires （世紀帝國 ）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.1556
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Resident Evil（惡靈古堡 ）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.1556
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.1556
+        },
+        {
+            "antecedents": [
+                "Battlefield 1 / Battlefield V（戰地風雲 1 / 5）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Age of Empires （世紀帝國 ）",
+            "support": 0.0563,
+            "confidence": 0.8,
+            "lift": 3.1556
+        }
+    ],
+    "校園連線競技團": [
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 13.0
+        },
+        {
+            "antecedents": [
+                "House Flipper（房屋裝修模擬）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 13.0
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "House Flipper（房屋裝修模擬）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 13.0
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 13.0
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 13.0
+        },
+        {
+            "antecedents": [
+                "Overcooked! 2（煮過頭 2）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 13.0
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 0.6667,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Forest（森林）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Walking Dead 系列（陰屍路 Telltale）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0769,
+            "confidence": 0.6667,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0769,
+            "confidence": 0.6667,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Overcooked! 2（煮過頭 2）",
+                "Red Dead Redemption 2（碧血狂殺 2）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "Sons of The Forest（森林之子）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Overcooked! 2（煮過頭 2）",
+                "Red Dead Redemption 2（碧血狂殺 2）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Resident Evil（惡靈古堡 ）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 0.6667,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Forest（森林）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "Sons of The Forest（森林之子）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "The Walking Dead 系列（陰屍路 Telltale）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Terraria（泰拉瑞亞）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Terraria（泰拉瑞亞）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Overcooked! 2（煮過頭 2）",
+                "Sons of The Forest（森林之子）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Walking Dead 系列（陰屍路 Telltale）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "Minecraft"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Overcooked! 2（煮過頭 2）",
+                "The Walking Dead 系列（陰屍路 Telltale）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "Resident Evil（惡靈古堡 ）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 0.6667,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Battlefield 1 / Battlefield V（戰地風雲 1 / 5）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0769,
+            "confidence": 0.6667,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "ARK: Survival Evolved（方舟）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "ARK: Survival Evolved（方舟）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Battlefield 1 / Battlefield V（戰地風雲 1 / 5）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Battlefield 1 / Battlefield V（戰地風雲 1 / 5）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Cities: Skylines（都市：天際線）",
+                "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）"
+            ],
+            "consequents": "Battlefield 1 / Battlefield V（戰地風雲 1 / 5）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Battlefield 1 / Battlefield V（戰地風雲 1 / 5）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0769,
+            "confidence": 0.6667,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "House Flipper（房屋裝修模擬）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 0.6667,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Forest（森林）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Sons of The Forest（森林之子）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Terraria（泰拉瑞亞）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Overcooked! 2（煮過頭 2）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Sons of The Forest（森林之子）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Terraria（泰拉瑞亞）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Overcooked! 2（煮過頭 2）",
+                "The Walking Dead 系列（陰屍路 Telltale）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Age of Empires （世紀帝國 ）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "The Walking Dead 系列（陰屍路 Telltale）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "The Forest（森林）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "The Walking Dead 系列（陰屍路 Telltale）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "The Sims 4（模擬市民 4）"
+            ],
+            "consequents": "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0769,
+            "confidence": 0.6667,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "The Forest（森林）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "The Walking Dead 系列（陰屍路 Telltale）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Dead by Daylight（黎明殺機）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "The Forest（森林）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Red Dead Redemption 2（碧血狂殺 2）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Forest（森林）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "The Walking Dead 系列（陰屍路 Telltale）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Terraria（泰拉瑞亞）",
+                "The Walking Dead 系列（陰屍路 Telltale）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Dead by Daylight（黎明殺機）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Red Dead Redemption 2（碧血狂殺 2）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Dead by Daylight（黎明殺機）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Forest（森林）",
+                "The Walking Dead 系列（陰屍路 Telltale）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "The Forest（森林）",
+                "The Walking Dead 系列（陰屍路 Telltale）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "Sons of The Forest（森林之子）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.1154,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Golf With Your Friends（和朋友打高爾夫）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0769,
+            "confidence": 1.0,
+            "lift": 8.6667
+        }
+    ],
+    "佛系高自由孤狼": [
+        {
+            "antecedents": [
+                "Red Dead Redemption 2（碧血狂殺 2）"
+            ],
+            "consequents": "Farming Simulator 22（農業模擬 22）",
+            "support": 0.0548,
+            "confidence": 0.5714,
+            "lift": 6.9524
+        },
+        {
+            "antecedents": [
+                "Farming Simulator 22（農業模擬 22）"
+            ],
+            "consequents": "Red Dead Redemption 2（碧血狂殺 2）",
+            "support": 0.0548,
+            "confidence": 0.6667,
+            "lift": 6.9524
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Minecraft"
+            ],
+            "consequents": "Planet Zoo（動物園之星）",
+            "support": 0.0685,
+            "confidence": 0.5556,
+            "lift": 6.7593
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0548,
+            "confidence": 0.8,
+            "lift": 6.4889
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Minecraft"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0548,
+            "confidence": 0.8,
+            "lift": 5.84
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0548,
+            "confidence": 0.8,
+            "lift": 5.84
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0548,
+            "confidence": 0.4444,
+            "lift": 5.4074
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Minecraft"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0548,
+            "confidence": 0.6667,
+            "lift": 5.4074
+        },
+        {
+            "antecedents": [
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0548,
+            "confidence": 0.6667,
+            "lift": 5.4074
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Minecraft"
+            ],
+            "consequents": "Monster Hunter（魔物獵人）",
+            "support": 0.0548,
+            "confidence": 0.4444,
+            "lift": 4.6349
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Minecraft"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0685,
+            "confidence": 1.0,
+            "lift": 4.5625
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 4.2941
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Planet Zoo（動物園之星）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0685,
+            "confidence": 1.0,
+            "lift": 4.2941
+        },
+        {
+            "antecedents": [
+                "Red Dead Redemption 2（碧血狂殺 2）"
+            ],
+            "consequents": "The Sims 4（模擬市民 4）",
+            "support": 0.0548,
+            "confidence": 0.5714,
+            "lift": 4.1714
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）"
+            ],
+            "consequents": "Red Dead Redemption 2（碧血狂殺 2）",
+            "support": 0.0548,
+            "confidence": 0.4,
+            "lift": 4.1714
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0685,
+            "confidence": 0.5556,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0685,
+            "confidence": 1.0,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "Red Dead Redemption 2（碧血狂殺 2）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0685,
+            "confidence": 0.5,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "Civilization VI（文明帝國 6）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0685,
+            "confidence": 1.0,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "F1 23 / F1 22（F1 賽車偏運動類）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0685,
+            "confidence": 1.0,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0822,
+            "confidence": 1.0,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "Cities: Skylines（都市：天際線）",
+                "Farming Simulator 22（農業模擬 22）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Planet Zoo（動物園之星）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Red Dead Redemption 2（碧血狂殺 2）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 4.0556
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0822,
+            "confidence": 0.4286,
+            "lift": 3.9107
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0685,
+            "confidence": 0.4167,
+            "lift": 3.8021
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Minecraft"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0685,
+            "confidence": 0.8333,
+            "lift": 3.8021
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Monster Hunter（魔物獵人）",
+            "support": 0.0548,
+            "confidence": 0.3636,
+            "lift": 3.7922
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.1507,
+            "confidence": 0.9167,
+            "lift": 3.7176
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0685,
+            "confidence": 0.4545,
+            "lift": 3.6869
+        },
+        {
+            "antecedents": [
+                "F1 23 / F1 22（F1 賽車偏運動類）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0685,
+            "confidence": 1.0,
+            "lift": 3.65
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "Farming Simulator 22（農業模擬 22）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 3.65
+        },
+        {
+            "antecedents": [
+                "F1 23 / F1 22（F1 賽車偏運動類）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0822,
+            "confidence": 1.0,
+            "lift": 3.65
+        },
+        {
+            "antecedents": [
+                "Red Dead Redemption 2（碧血狂殺 2）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 3.65
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0548,
+            "confidence": 0.8,
+            "lift": 3.65
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Red Dead Redemption 2（碧血狂殺 2）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 3.65
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Party Animals（動物派對）"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0548,
+            "confidence": 0.8,
+            "lift": 3.65
+        },
+        {
+            "antecedents": [
+                "Planet Zoo（動物園之星）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0685,
+            "confidence": 0.8333,
+            "lift": 3.5784
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0822,
+            "confidence": 0.8571,
+            "lift": 3.4762
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Red Dead Redemption 2（碧血狂殺 2）",
+            "support": 0.0548,
+            "confidence": 0.3333,
+            "lift": 3.4762
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "Civilization VI（文明帝國 6）",
+            "support": 0.0822,
+            "confidence": 0.4286,
+            "lift": 3.4762
+        },
+        {
+            "antecedents": [
+                "F1 23 / F1 22（F1 賽車偏運動類）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0822,
+            "confidence": 0.8571,
+            "lift": 3.4762
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0548,
+            "confidence": 0.8,
+            "lift": 3.4353
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Civilization VI（文明帝國 6）",
+            "support": 0.0685,
+            "confidence": 0.4167,
+            "lift": 3.3796
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0685,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Civilization VI（文明帝國 6）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0685,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Red Dead Redemption 2（碧血狂殺 2）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Red Dead Redemption 2（碧血狂殺 2）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0822,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "Planet Zoo（動物園之星）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Assassin's Creed Odyssey / Valhalla（刺客教條系列）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0685,
+            "confidence": 0.4545,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0822,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "GTA V（俠盜獵車手 5）",
+            "support": 0.0548,
+            "confidence": 1.0,
+            "lift": 3.3182
+        },
+        {
+            "antecedents": [
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Monster Hunter（魔物獵人）",
+            "support": 0.0685,
+            "confidence": 0.3125,
+            "lift": 3.2589
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0685,
+            "confidence": 0.7143,
+            "lift": 3.2589
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0685,
+            "confidence": 0.3571,
+            "lift": 3.2589
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0548,
+            "confidence": 0.4,
+            "lift": 3.2444
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0548,
+            "confidence": 0.8,
+            "lift": 3.2444
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0548,
+            "confidence": 0.4444,
+            "lift": 3.2444
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）"
+            ],
+            "consequents": "The Sims 4（模擬市民 4）",
+            "support": 0.0548,
+            "confidence": 0.4444,
+            "lift": 3.2444
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Minecraft"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0548,
+            "confidence": 0.4444,
+            "lift": 3.2444
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "PUBG: Battlegrounds（絕地求生）",
+            "support": 0.0548,
+            "confidence": 0.5714,
+            "lift": 3.2088
+        },
+        {
+            "antecedents": [
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0959,
+            "confidence": 0.35,
+            "lift": 3.1938
+        },
+        {
+            "antecedents": [
+                "F1 23 / F1 22（F1 賽車偏運動類）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0959,
+            "confidence": 0.875,
+            "lift": 3.1938
+        },
+        {
+            "antecedents": [
+                "Red Dead Redemption 2（碧血狂殺 2）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0685,
+            "confidence": 0.7143,
+            "lift": 3.0672
+        },
+        {
+            "antecedents": [
+                "F1 23 / F1 22（F1 賽車偏運動類）"
+            ],
+            "consequents": "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+            "support": 0.0822,
+            "confidence": 0.75,
+            "lift": 3.0417
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0685,
+            "confidence": 0.8333,
+            "lift": 3.0417
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0685,
+            "confidence": 0.8333,
+            "lift": 3.0417
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "Cities: Skylines（都市：天際線）",
+            "support": 0.0685,
+            "confidence": 0.8333,
+            "lift": 3.0417
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Minecraft"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0548,
+            "confidence": 0.6667,
+            "lift": 3.0417
+        },
+        {
+            "antecedents": [
+                "Overcooked! 2（煮過頭 2）",
+                "Minecraft"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0548,
+            "confidence": 0.6667,
+            "lift": 3.0417
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0822,
+            "confidence": 0.3333,
+            "lift": 3.0417
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Minecraft"
+            ],
+            "consequents": "Apex Legends（Apex 英雄）",
+            "support": 0.0822,
+            "confidence": 0.6667,
+            "lift": 3.0417
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）"
+            ],
+            "consequents": "The Sims 4（模擬市民 4）",
+            "support": 0.0548,
+            "confidence": 0.4,
+            "lift": 2.92
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0548,
+            "confidence": 0.4,
+            "lift": 2.92
+        }
+    ],
+    "硬核重度沙盒黨": [
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "F1 23 / F1 22（F1 賽車偏運動類）"
+            ],
+            "consequents": "Golf With Your Friends（和朋友打高爾夫）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Lethal Company（致命公司）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "Golf With Your Friends（和朋友打高爾夫）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "F1 23 / F1 22（F1 賽車偏運動類）"
+            ],
+            "consequents": "Rust（鏽蝕）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "Tomb Raider Trilogy（古墓奇兵三部曲）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+                "Minecraft"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Battlefield 1 / Battlefield V（戰地風雲 1 / 5）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Age of Empires （世紀帝國 ）"
+            ],
+            "consequents": "Golf With Your Friends（和朋友打高爾夫）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "Lethal Company（致命公司）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Elden Ring（艾爾登法環）",
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Lethal Company（致命公司）"
+            ],
+            "consequents": "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+                "Lethal Company（致命公司）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Terraria（泰拉瑞亞）",
+                "Lethal Company（致命公司）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Elden Ring（艾爾登法環）",
+                "Dark Souls Series（黑暗靈魂系列）"
+            ],
+            "consequents": "Sekiro: Shadows Die Twice（隻狼）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Stardew Valley（星露谷物語）",
+                "Lethal Company（致命公司）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "F1 23 / F1 22（F1 賽車偏運動類）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fallout 4（異塵餘生 4）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Red Dead Redemption 2（碧血狂殺 2）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Lethal Company（致命公司）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "Golf With Your Friends（和朋友打高爾夫）"
+            ],
+            "consequents": "Rocket League（火箭聯盟）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fallout 4（異塵餘生 4）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "PUBG: Battlegrounds（絕地求生）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "F1 23 / F1 22（F1 賽車偏運動類）"
+            ],
+            "consequents": "Rocket League（火箭聯盟）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Lethal Company（致命公司）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "Tomb Raider Trilogy（古墓奇兵三部曲）"
+            ],
+            "consequents": "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "Rocket League（火箭聯盟）"
+            ],
+            "consequents": "Golf With Your Friends（和朋友打高爾夫）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Lethal Company（致命公司）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "GTA V（俠盜獵車手 5）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Lethal Company（致命公司）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Lethal Company（致命公司）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "The Elder Scrolls V: Skyrim（上古卷軸 5：無界天際）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Minecraft"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Minecraft"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "Fall Guys（糖豆人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "Detroit: Become Human（底特律：變人）",
+            "support": 0.0625,
+            "confidence": 1.0,
+            "lift": 16.0
+        }
+    ],
+    "精緻多元探索者": [
+        {
+            "antecedents": [
+                "Dead by Daylight（黎明殺機）",
+                "Rocket League（火箭聯盟）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Garry’s Mod（蓋瑞模組）",
+                "Among Us（我們之中）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Black Desert Online（黑色沙漠）",
+                "Rocket League（火箭聯盟）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Garry’s Mod（蓋瑞模組）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Red Dead Redemption 2（碧血狂殺 2）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "Sons of The Forest（森林之子）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "For Honor（榮耀戰魂）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Dead by Daylight（黎明殺機）",
+                "Golf With Your Friends（和朋友打高爾夫）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Total War: Warhammer 2 / 3（全軍破敵：戰鎚）",
+                "PUBG: Battlegrounds（絕地求生）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Hollow Knight（空洞騎士）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Team Fortress 2（絕地要塞 2）",
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "For Honor（榮耀戰魂）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Black Desert Online（黑色沙漠）",
+                "PAYDAY 2（收穫日 2）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "Team Fortress 2（絕地要塞 2）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Overcooked! 2（煮過頭 2）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Devour（吞噬）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Golf With Your Friends（和朋友打高爾夫）",
+                "Among Us（我們之中）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "For Honor（榮耀戰魂）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Among Us（我們之中）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "For Honor（榮耀戰魂）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "The Forest（森林）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "Phasmophobia（恐鬼症）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "XCOM 2（異塵餘生 2）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "Devour（吞噬）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "Tomb Raider Trilogy（古墓奇兵三部曲）"
+            ],
+            "consequents": "For Honor（榮耀戰魂）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Black Desert Online（黑色沙漠）",
+                "Left 4 Dead 2（惡靈勢力 2）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "Tomb Raider Trilogy（古墓奇兵三部曲）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Among Us（我們之中）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Tomb Raider Trilogy（古墓奇兵三部曲）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "For Honor（榮耀戰魂）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Devour（吞噬）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "For Honor（榮耀戰魂）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Devour（吞噬）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Black Desert Online（黑色沙漠）",
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Devour（吞噬）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Black Desert Online（黑色沙漠）",
+                "Tomb Raider Trilogy（古墓奇兵三部曲）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Limbo（地獄邊境）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "Total War: Three Kingdoms（全軍破敵：三國）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Devour（吞噬）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Fallout 4（異塵餘生 4）",
+                "Assassin's Creed Odyssey / Valhalla（刺客教條系列）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "The Sims 4（模擬市民 4）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Terraria（泰拉瑞亞）",
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "For Honor（榮耀戰魂）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "Tomb Raider Trilogy（古墓奇兵三部曲）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "The Forest（森林）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Fallout 4（異塵餘生 4）",
+                "Assassin's Creed Odyssey / Valhalla（刺客教條系列）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Black Desert Online（黑色沙漠）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Total War: Three Kingdoms（全軍破敵：三國）",
+                "Tom Clancy’s Rainbow Six Siege（虹彩六號：圍攻行動）"
+            ],
+            "consequents": "Limbo（地獄邊境）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Devour（吞噬）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Outlast（絕命精神病院）",
+                "Golf With Your Friends（和朋友打高爾夫）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Black Desert Online（黑色沙漠）",
+                "Team Fortress 2（絕地要塞 2）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Tomb Raider Trilogy（古墓奇兵三部曲）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Outlast（絕命精神病院）",
+                "Golf With Your Friends（和朋友打高爾夫）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Devour（吞噬）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Black Desert Online（黑色沙漠）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "Red Dead Redemption 2（碧血狂殺 2）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "For Honor（榮耀戰魂）",
+                "Terraria（泰拉瑞亞）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "For Honor（榮耀戰魂）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Devil May Cry 5（惡魔獵人 5）",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "For Honor（榮耀戰魂）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Rocket League（火箭聯盟）",
+                "Among Us（我們之中）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "For Honor（榮耀戰魂）",
+                "Team Fortress 2（絕地要塞 2）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Sekiro: Shadows Die Twice（隻狼）",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Fallout 4（異塵餘生 4）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Tomb Raider Trilogy（古墓奇兵三部曲）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Phasmophobia（恐鬼症）",
+                "Assassin's Creed Odyssey / Valhalla（刺客教條系列）"
+            ],
+            "consequents": "For Honor（榮耀戰魂）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "INSIDE（深處）",
+                "Phasmophobia（恐鬼症）"
+            ],
+            "consequents": "Limbo（地獄邊境）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Stardew Valley（星露谷物語）",
+                "Tomb Raider Trilogy（古墓奇兵系列）"
+            ],
+            "consequents": "For Honor（榮耀戰魂）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Detroit: Become Human（底特律：變人）",
+                "Black Desert Online（黑色沙漠）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "For Honor（榮耀戰魂）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵系列）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Tomb Raider Trilogy（古墓奇兵三部曲）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "For Honor（榮耀戰魂）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "Stardew Valley（星露谷物語）",
+                "Dead by Daylight（黎明殺機）"
+            ],
+            "consequents": "Devour（吞噬）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        },
+        {
+            "antecedents": [
+                "For Honor（榮耀戰魂）",
+                "Stardew Valley（星露谷物語）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0952,
+            "confidence": 1.0,
+            "lift": 10.5
+        }
+    ],
+    "療癒派對休閒團": [
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Left 4 Dead 2（惡靈勢力 2）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Devil May Cry 5（惡魔獵人 5）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Minecraft"
+            ],
+            "consequents": "Among Us（我們之中）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Outlast（絕命精神病院）",
+                "Left 4 Dead 2（惡靈勢力 2）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Outlast（絕命精神病院）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Left 4 Dead 2（惡靈勢力 2）",
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "FIFA / EA SPORTS FC 系列（足球）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Fall Guys（糖豆人）"
+            ],
+            "consequents": "Among Us（我們之中）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Age of Empires （世紀帝國 ）",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Elden Ring（艾爾登法環）",
+                "Left 4 Dead 2（惡靈勢力 2）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Outlast（絕命精神病院）",
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Cities: Skylines（都市：天際線）",
+                "FIFA / EA SPORTS FC 系列（足球）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Total War: Three Kingdoms（全軍破敵：三國）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Age of Empires （世紀帝國 ）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Party Animals（動物派對）"
+            ],
+            "consequents": "Total War: Three Kingdoms（全軍破敵：三國）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "Age of Empires （世紀帝國 ）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 11.0
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "Cyberpunk 2077（電馭叛客 2077）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Fall Guys（糖豆人）",
+                "Among Us（我們之中）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Resident Evil（惡靈古堡 ）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "Minecraft"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.1364,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "FIFA / EA SPORTS FC 系列（足球）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "The Walking Dead 系列（陰屍路 Telltale）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Age of Empires （世紀帝國 ）",
+                "Minecraft"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Total War: Three Kingdoms（全軍破敵：三國）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "Minecraft"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Cyberpunk 2077（電馭叛客 2077）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "NBA 2K 系列（籃球）"
+            ],
+            "consequents": "Tomb Raider Trilogy（古墓奇兵三部曲）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Total War: Three Kingdoms（全軍破敵：三國）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Total War: Three Kingdoms（全軍破敵：三國）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Civilization VI（文明帝國 6）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Elden Ring（艾爾登法環）",
+                "PUBG: Battlegrounds（絕地求生）"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Elden Ring（艾爾登法環）",
+                "Dark Souls Series（黑暗靈魂系列）"
+            ],
+            "consequents": "Left 4 Dead 2（惡靈勢力 2）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Elden Ring（艾爾登法環）",
+                "PUBG: Battlegrounds（絕地求生）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Devil May Cry 5（惡魔獵人 5）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Sons of The Forest（森林之子）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Sons of The Forest（森林之子）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）",
+                "Total War: Three Kingdoms（全軍破敵：三國）"
+            ],
+            "consequents": "Party Animals（動物派對）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Party Animals（動物派對）",
+                "Total War: Three Kingdoms（全軍破敵：三國）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Left 4 Dead 2（惡靈勢力 2）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Left 4 Dead 2（惡靈勢力 2）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Outlast（絕命精神病院）",
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Left 4 Dead 2（惡靈勢力 2）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Elden Ring（艾爾登法環）",
+                "Euro Truck Simulator 2（歐洲卡車模擬 2）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Apex Legends（Apex 英雄）",
+                "FIFA / EA SPORTS FC 系列（足球）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Elden Ring（艾爾登法環）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.1364,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+                "Apex Legends（Apex 英雄）"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Among Us（我們之中）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Dark Souls Series（黑暗靈魂系列）"
+            ],
+            "consequents": "Left 4 Dead 2（惡靈勢力 2）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Left 4 Dead 2（惡靈勢力 2）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Sekiro: Shadows Die Twice（隻狼）",
+                "Dark Souls Series（黑暗靈魂系列）"
+            ],
+            "consequents": "Left 4 Dead 2（惡靈勢力 2）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "The Witcher 3: Wild Hunt（巫師 3：狂獵）"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Cyberpunk 2077（電馭叛客 2077）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Outlast（絕命精神病院）",
+                "Dark Souls Series（黑暗靈魂系列）"
+            ],
+            "consequents": "Left 4 Dead 2（惡靈勢力 2）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "NBA 2K 系列（籃球）",
+                "Minecraft"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Minecraft"
+            ],
+            "consequents": "Red Dead Redemption 2（碧血狂殺 2）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Monster Hunter（魔物獵人）",
+                "Dark Souls Series（黑暗靈魂系列）"
+            ],
+            "consequents": "Left 4 Dead 2（惡靈勢力 2）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "FIFA / EA SPORTS FC 系列（足球）",
+                "Cities: Skylines（都市：天際線）"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Elden Ring（艾爾登法環）",
+                "Sekiro: Shadows Die Twice（隻狼）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Elden Ring（艾爾登法環）",
+                "Outlast（絕命精神病院）"
+            ],
+            "consequents": "Dark Souls Series（黑暗靈魂系列）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "FIFA / EA SPORTS FC 系列（足球）"
+            ],
+            "consequents": "The Witcher 3: Wild Hunt（巫師 3：狂獵）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "GTA V（俠盜獵車手 5）"
+            ],
+            "consequents": "Red Dead Redemption 2（碧血狂殺 2）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Tomb Raider Trilogy（古墓奇兵三部曲）",
+                "ARK: Survival Evolved（方舟）"
+            ],
+            "consequents": "The Sims 4（模擬市民 4）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Counter-Strike 2（絕對武力 CS2）",
+                "PUBG: Battlegrounds（絕地求生）"
+            ],
+            "consequents": "ARK: Survival Evolved（方舟）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Hollow Knight（空洞騎士）",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "Overcooked! 2（煮過頭 2）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "Lethal Company（致命公司）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Among Us（我們之中）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Human: Fall Flat（一起來捉弄人）"
+            ],
+            "consequents": "Among Us（我們之中）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Minecraft",
+                "Civilization VI（文明帝國 6）"
+            ],
+            "consequents": "Terraria（泰拉瑞亞）",
+            "support": 0.0909,
+            "confidence": 0.6667,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Total War: Three Kingdoms（全軍破敵：三國）"
+            ],
+            "consequents": "Human: Fall Flat（一起來捉弄人）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "Resident Evil（惡靈古堡 ）",
+                "Cyberpunk 2077（電馭叛客 2077）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "F1 23 / F1 22（F1 賽車偏運動類）",
+                "Resident Evil（惡靈古堡 ）"
+            ],
+            "consequents": "Cyberpunk 2077（電馭叛客 2077）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        },
+        {
+            "antecedents": [
+                "PUBG: Battlegrounds（絕地求生）",
+                "Cyberpunk 2077（電馭叛客 2077）"
+            ],
+            "consequents": "F1 23 / F1 22（F1 賽車偏運動類）",
+            "support": 0.0909,
+            "confidence": 1.0,
+            "lift": 7.3333
+        }
+    ]
+}
